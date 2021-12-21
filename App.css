@@ -85,6 +85,7 @@
      font-family: monospace;
      word-spacing: 1px;
      letter-spacing: 1px;
+     outline:none;
  }
 
  .more{
